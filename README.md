@@ -10,3 +10,8 @@
 - 윷놀이의 말에 해당하는 캐릭터들이 가위바위보 지팡이를 들고 가위바위보를 하며 진행하는 게임
 ### 소개영상
 [![play](https://user-images.githubusercontent.com/53414240/74591443-64b43880-505b-11ea-95bf-3b88f0d3378a.PNG)](https://www.youtube.com/watch?v=5xvTxyFRWPM&feature=youtu.be)
+<br>
+
+------
+
+<p align="center">Copyright&copy; 2019. Quinque. All rights reserved.</p>
