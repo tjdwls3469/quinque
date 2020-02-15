@@ -8,6 +8,8 @@
 ### 게임 소개
 - 우리나라의 전통 놀이인 윷놀이와 익숙한 가위바위보를 융합한 게임
 - 윷놀이의 말에 해당하는 캐릭터들이 가위바위보 지팡이를 들고 가위바위보를 하며 진행하는 게임
+### 개발 환경
+- Java, Java Swing, MySQL
 ### 소개영상
 [![play](https://user-images.githubusercontent.com/53414240/74591443-64b43880-505b-11ea-95bf-3b88f0d3378a.PNG)](https://www.youtube.com/watch?v=5xvTxyFRWPM&feature=youtu.be)
 <br>
